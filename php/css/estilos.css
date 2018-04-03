@@ -1,0 +1,55 @@
+body{
+    background-color: #dfe4ea;
+    font-family: "Montserrat";"helvetica";
+}
+h2{
+    margin: 33px;
+}
+.lista-color{
+    background-color: #3742fa;
+    color:#fff;
+}
+.lista-color h2{
+    text-decoration: underline;
+}
+.lista-imagen{
+    background-color: #eccc68;
+}
+.boton{
+    margin-top: 20px;
+    background-color: #eccc68;
+    border-radius: 20px;
+    height: 50px;
+    padding: 10px;
+}
+.boton a{
+    color:#fff;
+    font-size: 20px;
+}
+.boton a:hover{
+    background-color: #3742fa;
+    color:#eccc68;
+    text-decoration: none;
+    height: 45px;
+    border-radius: 20px;
+}
+.select{
+    margin-top: 20px;
+}
+.marcador{
+    font-size: 30px;
+    color:#fff;
+    text-decoration: underline;
+}
+.altura{
+    height: 400px;
+}
+.tabla{
+    margin-top: 50px;
+}
+.imagen{
+    background-image: url(descarga.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
